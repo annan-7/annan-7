@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working in Machine Learning (ML), with a keen interest in parsers and compiler design. Experienced in web development and modern web technologies.<br>
+Keen interest in parsers and compiler design. Experienced in web development and modern web technologies.<br>
 
 
 # 💻 Tech Stack:

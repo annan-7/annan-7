@@ -1,5 +1,5 @@
 # 💫 About Me:
-Keen interest in parsers and compiler design. Experienced in web development and modern web technologies.<br>
+.<br>
 
 
 # 💻 Tech Stack:

@@ -52,7 +52,30 @@ stack:
 ## `03 // ACTIVITY & LANGUAGES`
 
 <!-- STATS:START -->
-Las estadísticas se actualizan automáticamente mediante GitHub Actions. La primera actualización está pendiente.
+**Alcance:** Repositorios públicos propios.
+
+| Actividad | Total |
+|:---|---:|
+| Repositorios | 30 |
+| Commits de contribución · últimos 12 meses | 255 |
+| Contribuciones · últimos 12 meses | 559 |
+
+**Lenguajes por volumen de código** · repositorios propios, sin forks.
+
+| Lenguaje | Proporción |
+|:---|---:|
+| JavaScript | 41.7% |
+| Python | 17.9% |
+| TypeScript | 16.9% |
+| CSS | 11.5% |
+| HTML | 9.8% |
+| Rust | 1.7% |
+| Dockerfile | 0.4% |
+| Shell | 0.1% |
+
+Los commits siguen las reglas del gráfico de contribuciones de GitHub; no representan todos los commits históricos ni todas las ramas.
+
+Actualizado: 2026-10-26 05:57 UTC
 <!-- STATS:END -->
 
 ## `04 // DEVELOPER TERMINAL`

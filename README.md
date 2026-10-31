@@ -1,5 +1,5 @@
 # 💫 About Me:
-.<br>
+Becoming a rustasian...<br>
 
 
 # 💻 Tech Stack:
